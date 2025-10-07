@@ -1,0 +1,5 @@
+ID: 1, Name: Laptop    , Category: Electronics, Price: €999.99, Stock: 12
+ID: 2, Name: Gaming Mouse, Category: Accessories, Price: €49.99, Stock: 50
+ID: 3, Name: Headphones, Category: Audio, Price: €89.99, Stock: 25
+ID: 4, Name: Mechanical Keyboard, Category: Accessories, Price: €129.99, Stock: 20
+ID: 5, Name: Monitor   , Category: Electronics, Price: €199.99, Stock: 15
